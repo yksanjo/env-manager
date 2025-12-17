@@ -1,5 +1,10 @@
 # env-manager
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![GitHub](https://img.shields.io/github/stars/yksanjo/env-manager?style=social)
+
 Manage .env files across projects with validation, type checking, and secure encryption. Never miss a required environment variable again!
 
 ## Features
